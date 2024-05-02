@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toinyumi" alt="toinyumi" /></a> </p>
 
-- 💬 Ask me about **React-native, Go**
+- 💬 Ask me about **React-native, Go, Svelte**
 
 - 📫 How to reach me **toinyumi@gmail.com**
 

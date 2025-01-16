@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yumi</h1>
 <h3 align="center">A full-stack developer from Hong Kong</h3>
 
-- I mainly use **Go, Svelte, Flutter**
+- I mainly use **Go, React, Flutter**
 - I used **React-native** for a while and built a complex app with native bridge so I know it so well (but actually I'm not a fan of it)
 - I have worked in so many startups and some of them are now closed already
 - I love good products, and so I want to make good products. I always ask and comment everything till the deadline.

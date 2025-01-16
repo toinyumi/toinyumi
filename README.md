@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toinyumi" alt="toinyumi" /></a> </p>
 
-- 💬 Ask me about **React-native, Go, Svelte, Flutter**
+- 💬 Ask me about **React-native, Go, Flutter, Kubernetes, NodeJS**
 
 - 📫 How to reach me **toinyumi@gmail.com**
 
@@ -23,8 +23,10 @@
 - Bytelancers [https://www.bytelancers.com/] with Vue
 - Chill Labs [https://chill-labs.com/] with Flutter
 - InStep Concept [https://instep-concept.hk] with FeathersJS, MongoDB, NuxtJS
+- Iris' Palette [Coming Soon] with Go, Flutter, MongoDB, Kubernetes
 - Oction (Oction.co) [It's already dead] with Laravel, Android
 - Picante (Picante.io) [It's already dead] with Go, React, AWS DynamoDB
+- Seeklight Art [https://seeklight-art.com] with Go, React, MongoDB, Kubernetes
 - Storius [https://storiusapp.com/] with Android
 - Travoo (Hong Kong) [It's already dead] with React-native(and also Native Bridge for iOS & Android), SocketIO on NodeJS, Go, MongoDB, Vue
 - yaallO [https://yaallo.com/] with PHP
